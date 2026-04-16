@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 442kb of code in 73 edited files across 8 commits</small>
+                <small>estimation from 521kb of code in 131 edited files across 62 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="427.1915291073856" height="8" fill="#e16737"/>
-                    <rect mask="url(#languages-bar)" x="427.1915291073856" y="0" width="17.650014813206596" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="444.8415439205922" y="0" width="15.158456079407834" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="427.26387925509033" height="8" fill="#e16737"/>
+                    <rect mask="url(#languages-bar)" x="427.26387925509033" y="0" width="17.13090356738342" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="444.39478282247376" y="0" width="15.605217177526276" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,9 +36,9 @@
                                 MATLAB
                             </div>
                             <small>
-                                <div>13.2k lines</div>
-                                <div>410 kB</div>
-                                <div>92.87%</div>
+                                <div>13.7k lines</div>
+                                <div>423 kB</div>
+                                <div>92.88%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,7 +51,7 @@
                             <small>
                                 <div>554 lines</div>
                                 <div>16.9 kB</div>
-                                <div>3.84%</div>
+                                <div>3.72%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -62,9 +62,9 @@
                                 Limbo
                             </div>
                             <small>
-                                <div>677 lines</div>
-                                <div>14.5 kB</div>
-                                <div>3.3%</div>
+                                <div>713 lines</div>
+                                <div>15.4 kB</div>
+                                <div>3.39%</div>
                             </small>
                         </div>
                     </section>
