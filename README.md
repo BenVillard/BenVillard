@@ -8,7 +8,6 @@ AI consultant (PhD) with extensive experience in medical imaging, computer visio
 # 📊 GitHub Stats:
 ![Stats](./metrics.stats.svg)
 ![Languages](./metrics.languages.svg)
-![Isocalendar](./metrics.isocalendar.svg)
 
 
 
