@@ -9,14 +9,11 @@ AI consultant (PhD) with extensive experience in medical imaging, computer visio
 ![Stats](./metrics.stats.svg)
 ![Languages](./metrics.languages.svg)
 
+## 🏆 GitHub Achievements
+![](./metrics.plugin.achievements.compact.svg)
 
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BenVillard&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BenVillard&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Topics
+![](./metrics.plugin.topics.icons.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BenVillard&icon=0&color=0)](https://visitcount.itsvg.in)
