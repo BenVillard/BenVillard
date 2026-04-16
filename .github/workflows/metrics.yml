@@ -38,16 +38,7 @@ jobs:
           plugin_languages_indepth: yes        # clones repos & scans commits — sees private
           plugin_languages_sections: most-used, recently-used
           plugin_languages_details: lines, bytes-size, percentage
-          plugin_languages_limit: 8
-          commits_authoring: Ben Villard, BenVillard, benvillard@users.noreply.github.com, ben@xylemtech.com, benjamin.villard@eng.ox.ac.uk
+          plugin_languages_limit: 10
+          commits_authoring: Ben Villard, BenVillard, bkvillard@gmail.com, b.016434@gmail.com, benvillard@users.noreply.github.com, ben@xylemtech.com, benjamin.villard@eng.ox.ac.uk
 
-      # ── Card 3: Isometric Contribution Calendar ──────────────────────────
-      - name: Isocalendar
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.isocalendar.svg
-          user: BenVillard
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+      
