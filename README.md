@@ -9,12 +9,6 @@ AI consultant (PhD) with extensive experience in medical imaging, computer visio
 ![Stats](./metrics.stats.svg)
 ![Languages](./metrics.languages.svg)
 
-## 🏆 GitHub Achievements
-![](./metrics.plugin.achievements.compact.svg)
-
-### 🔝 Top Topics
-![](./metrics.plugin.topics.icons.svg)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=BenVillard&icon=0&color=0)](https://visitcount.itsvg.in)
 
