@@ -40,5 +40,33 @@ jobs:
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_limit: 10
           commits_authoring: Ben Villard, BenVillard, bkvillard@gmail.com, b.016434@gmail.com, benvillard@users.noreply.github.com, ben@xylemtech.com, benjamin.villard@eng.ox.ac.uk
+  
+      # ── Card 3: achievements  ────────────
+      - name: Compact display
+        uses: lowlighter/metrics@latest
+        with:
+          user: BenVillard
+          filename: metrics.plugin.achievements.compact.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+            scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
 
-      
+      - name: Icons
+        uses: lowlighter/metrics@latest
+        with:
+          user: BenVillard
+          filename: metrics.plugin.topics.icons.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+
+
+
+          
